@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Loges",
+  "license": "ISC",
+  "description": "backend-main",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LogesS25/backend-main.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LogesS25/backend-main/issues"
+  },
+  "homepage": "https://github.com/LogesS25/backend-main#readme"
+}
